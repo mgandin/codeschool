@@ -5,9 +5,9 @@ public class FooBarQix {
         String result = "";
         if(anInteger %3 == 0)
             result += "FOO";
-        else if(anInteger %5 == 0)
+        if(anInteger %5 == 0)
             result += "BAR";
-        else if(anInteger %7 == 0)
+        if(anInteger %7 == 0)
             result += "QIX";
         String integer = String.valueOf(anInteger);
 
