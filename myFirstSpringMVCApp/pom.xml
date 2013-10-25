@@ -7,7 +7,7 @@
     <name>myFirstSpringMVCApp</name>
     <url>http://maven.apache.org</url>
     <properties>
-        <spring.version>3.2.4.RELEASE</spring.version>
+        <spring.version>3.0.5.RELEASE</spring.version>
         <guava.version>13.0.1</guava.version>
         <junit.version>4.11</junit.version>
         <fest-assert.version>1.4</fest-assert.version>
